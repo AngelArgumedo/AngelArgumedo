@@ -210,7 +210,7 @@
 
 ----
 	
-[![AngelArgumedo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AngelArgumedo&theme=github	)](https://github.com/AngelArgumedo/github-readme-activity-graph)
+[![AngelArgumedo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelArgumedo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 </details>
@@ -241,6 +241,9 @@
     	</a>
 	<a href="https://github.com/AngelArgumedo/app-notes-with-mongodb">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelArgumedo&repo=app-notes-with-mongodb&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AngelArgumedo/website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelArgumedo&repo=website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
