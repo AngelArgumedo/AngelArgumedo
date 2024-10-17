@@ -130,16 +130,9 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelArgumedo&theme=tokyonight_duo" alt="AngelArgumedo" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AngelArgumedo&theme=tokyonight)  
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelArgumedo&theme=tokyonight_duo" alt="AngelArgumedo" /></p>
+<p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="AngelArgumedo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AngelArgumedo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelArgumedo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="AngelArgumedo" height="230px"/>
@@ -148,11 +141,14 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
+  
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 	
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelArgumedo&theme=tokyonight)
+
 [![AngelArgumedo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelArgumedo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
