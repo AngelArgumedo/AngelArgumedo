@@ -49,8 +49,7 @@
 </p>
 
 
-
-## 🛠️ My Skills
+<details><summary><h3>🛠️ My Skills</h3></summary>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
@@ -115,6 +114,7 @@
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,mint,windows" />
   </a>
 </p>
+</details>
 
 <br> 
 
