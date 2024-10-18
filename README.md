@@ -28,6 +28,7 @@
 - :computer: I am a competitive programmer at `hackerrank`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `artificial intelligence` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/angelargumedo)
 <br>
 
 
