@@ -160,7 +160,7 @@
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AngelArgumedo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="AngelArgumedo" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=AngelArgumedo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 	
